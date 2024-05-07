@@ -14,9 +14,14 @@ class ViewController: UIViewController {
     @IBOutlet weak var buttonCheckIn: UIButton!
     override func viewDidLoad() {
         super.viewDidLoad()
+            
         // Do any additional setup after loading the view.
     }
-  
+    // TODO: Helloo
+    
+    
+    // MARK: Hello wkwkkwkwkwk
+    
     @IBAction func onTapCheckinButton(_ sender: Any) {
         print("button tapped")
         let dateFormat = DateFormatter()
